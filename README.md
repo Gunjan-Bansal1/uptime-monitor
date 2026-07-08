@@ -223,19 +223,19 @@ Expected
 
 ### Dashboard
 
-![Dashboard](<CC:\Users\bgunj\Desktop\uptime monitor\Docs\Dashboard.png>)
+![Dashboard](<Docs/Dashboard.png>)
 
 ### Swagger API
 
-![Swagger](<C:\Users\bgunj\Desktop\uptime monitor\Docs\swagger.png>)
+![Swagger](<Docs/swagger.png>)
 
 ### Docker Desktop
 
-![Docker Desktop](<C:\Users\bgunj\Desktop\uptime monitor\Docs\Docker Desktop.png>)
+![Docker Desktop](<Docs/Docker%20Desktop.png>)
 
 ### Running Containers
 
-![Docker PS](<C:\Users\bgunj\Desktop\uptime monitor\Docs\Docker Container running.png>)
+![Docker Container running](<Docs/Docker%20Container%20running.png>)
 ---
 
 ## Deployment Sketch
