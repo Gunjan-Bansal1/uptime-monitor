@@ -4,9 +4,13 @@
 
 **Uptime Monitor**
 
+This document records how AI assistants were used throughout the development of the Uptime Monitor MVP.
+
+Every AI-generated suggestion was reviewed, tested, debugged, and validated before being integrated into the final implementation.
+
 ---
 
-# AI Tools Used
+# AI Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -23,7 +27,9 @@ The final implementation includes several manual improvements based on debugging
 
 ---
 
-# Major Development Tasks
+# The Prompts That Shipped It
+
+Below are representative prompts that were used during development. These are not exhaustive but reflect the major AI-assisted implementation stages.
 
 ## 1. Backend API Development
 
@@ -113,7 +119,7 @@ Implemented:
 
 ---
 
-# Problems Encountered
+# The Course Corrections
 
 ---
 
@@ -265,3 +271,17 @@ AI significantly accelerated development by assisting with implementation ideas,
 However, several issues required manual investigation and validation before reaching the final solution. Testing, debugging, and understanding the underlying behavior were essential to producing a reliable application.
 
 This project reinforced the importance of using AI as a development assistant rather than a replacement for engineering judgment.
+
+# Final Outcome
+
+The final application satisfies all assignment requirements:
+
+- Full-stack application
+- FastAPI backend
+- React frontend
+- Docker Compose setup
+- Automatic health monitoring
+- REST APIs
+- Deployment sketch
+- AI collaboration log
+- README with testing instructions
