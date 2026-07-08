@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+backend/app/uptime_monitor.db
+uptime_monitor.db
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Python test cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# macOS
+.AppleDouble
+.LSOverride
