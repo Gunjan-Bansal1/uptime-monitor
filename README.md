@@ -259,7 +259,11 @@ For production deployment, the architecture can be extended as follows:
  Registered Websites
 ```
 
-The current project uses SQLite for simplicity. In production, PostgreSQL or MySQL would be preferred.
+### Deployment Note
+
+The current implementation is designed for local development using Docker Compose and SQLite.
+
+For a production deployment, the React frontend would be served behind an Nginx load balancer, while the FastAPI backend would run inside Docker containers. SQLite would be replaced with PostgreSQL for improved reliability and scalability. APScheduler would continue performing periodic health checks, and the application could be hosted on a cloud platform such as AWS, Azure, or Google Cloud with HTTPS enabled through the load balancer.
 
 ---
 
