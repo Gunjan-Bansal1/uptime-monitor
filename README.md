@@ -296,6 +296,6 @@ A detailed record of the AI-assisted development process, including prompts, deb
 
 Gunjan Bansal
 
-M.Tech Data Science
+M.Sc Data Science
 
 IIIT Lucknow
