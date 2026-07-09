@@ -231,11 +231,11 @@ Expected
 
 ### Docker Desktop
 
-![Docker Desktop](<Docs/Docker%20Desktop.png>)
+![Docker Desktop](<Docs/Docker-Desktop.png>)
 
 ### Running Containers
 
-![Docker Container running](<Docs/Docker%20Container%20running.png>)
+![Docker Container running](<Docs/Docker-Container-running.png>)
 ---
 
 ## Deployment Sketch
